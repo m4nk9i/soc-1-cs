@@ -7,6 +7,9 @@ public class Player
     float age;
     public Player()
     {
+        this.name="";
+        this.ID=0;
+        this.age=2;
 
     }
     public string toStr(string pindent)

@@ -7,6 +7,7 @@ public class Team
     public Team()
     {
         players=new List<Player>();
+        name="";
 
     }
 

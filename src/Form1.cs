@@ -18,13 +18,13 @@ public partial class Form1 : Form
         this.panel1.Height=200;
         this.panel1.BackColor=Color.Aqua;
         this.Controls.Add(this.panel1);
-        this.mat1.Draw(this.panel1.CreateGraphics());
+      //  this.mat1.Draw(this.panel1.CreateGraphics());
       //  this.t1.Draw(this.panel1.CreateGraphics());
         this.panel1.Paint+=PanelPaint;
 
     }
 
-    private void PanelPaint(object sender, PaintEventArgs e)
+    private void PanelPaint(object? sender, PaintEventArgs e)
     {
         this.mat1.Draw(e.Graphics);
     }
