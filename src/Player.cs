@@ -7,7 +7,7 @@ public class Player
     public float age;
     public Player():this(" [x] ")
     {
-        
+
     }
 
     public Player(string pname)

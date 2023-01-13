@@ -9,10 +9,13 @@ public class Team
 
     }
 
+
+
     public Team(string pstr)
     {
+        name=pstr;
         players=new List<Player>();
-        this.name=pstr;
+
     }
 
     public string toStr(string pindent)
