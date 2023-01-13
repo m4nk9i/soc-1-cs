@@ -1,0 +1,110 @@
+[
+    {
+        "G_ID": 1,
+        "G_name": "Ekstraklasa"
+    },
+    {
+        "G_ID": 2,
+        "G_name": "I liga"
+    },
+    {
+        "G_ID": 3,
+        "G_name": "II liga"
+    },
+    {
+        "G_ID": 4,
+        "G_name": "III liga - grupa I"
+    },
+    {
+        "G_ID": 5,
+        "G_name": "III liga - grupa II"
+    },
+    {
+        "G_ID": 6,
+        "G_name": "III liga - grupa III"
+    },
+    {
+        "G_ID": 7,
+        "G_name": "III liga - grupa IV"
+    },
+    {
+        "G_ID": 8,
+        "G_name": "IV liga - Grupa I (dolnośląska wschód)"
+    },
+    {
+        "G_ID": 9,
+        "G_name": "IV liga - Grupa II (dolnośląska zachód)"
+    },
+    {
+        "G_ID": 10,
+        "G_name": "IV liga - Grupa III (kujawsko-pomorska)"
+    },
+    {
+        "G_ID": 11,
+        "G_name": "IV liga - Grupa IV (lubelska)"
+    },
+    {
+        "G_ID": 12,
+        "G_name": "IV liga - Grupa V (lubuska)"
+    },
+    {
+        "G_ID": 13,
+        "G_name": "IV liga - Grupa VI (łódzka)"
+    },
+    {
+        "G_ID": 14,
+        "G_name": "IV liga - Grupa VII (małopolska wschodnia)"
+    },
+    {
+        "G_ID": 15,
+        "G_name": "IV liga - Grupa VIII (małopolska zachodnia)"
+    },
+    {
+        "G_ID": 16,
+        "G_name": "IV liga - Grupa IX (mazowiecka południowa)"
+    },
+    {
+        "G_ID": 17,
+        "G_name": "IV liga - Grupa X (mazowiecka północna)"
+    },
+    {
+        "G_ID": 18,
+        "G_name": "IV liga - Grupa XI (opolska)"
+    },
+    {
+        "G_ID": 19,
+        "G_name": "IV liga - Grupa XII (podkarpacka)"
+    },
+    {
+        "G_ID": 20,
+        "G_name": "IV liga - Grupa XIII (podlaska)"
+    },
+    {
+        "G_ID": 21,
+        "G_name": "IV liga - Grupa XIV (pomorska)"
+    },
+    {
+        "G_ID": 22,
+        "G_name": "IV liga - Grupa XV (śląska I)"
+    },
+    {
+        "G_ID": 23,
+        "G_name": "IV liga - Grupa XVI (śląska II)"
+    },
+    {
+        "G_ID": 24,
+        "G_name": "IV liga - Grupa XVII (świętokrzyska)"
+    },
+    {
+        "G_ID": 25,
+        "G_name": "IV liga - Grupa XVIII (warmińsko-mazurska)"
+    },
+    {
+        "G_ID": 26,
+        "G_name": "IV liga - Grupa XIX (wielkopolska)"
+    },
+    {
+        "G_ID": 27,
+        "G_name": "IV liga - Grupa XX (zachodniopomorska)"
+    }
+]

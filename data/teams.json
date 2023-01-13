@@ -1,0 +1,2312 @@
+[
+    {
+        "T_ID": 1,
+        "T_group": 1,
+        "T_name": "Śląsk Wrocław"
+    },
+    {
+        "T_ID": 2,
+        "T_group": 1,
+        "T_name": "Lech Poznań"
+    },
+    {
+        "T_ID": 3,
+        "T_group": 1,
+        "T_name": "Lechia Gdańsk"
+    },
+    {
+        "T_ID": 4,
+        "T_group": 1,
+        "T_name": "Wisła Kraków"
+    },
+    {
+        "T_ID": 5,
+        "T_group": 1,
+        "T_name": "Legia Warszawa"
+    },
+    {
+        "T_ID": 6,
+        "T_group": 1,
+        "T_name": "Górnik Zabrze"
+    },
+    {
+        "T_ID": 7,
+        "T_group": 1,
+        "T_name": "Jagiellonia Białystok"
+    },
+    {
+        "T_ID": 8,
+        "T_group": 1,
+        "T_name": "Pogoń Szczecin"
+    },
+    {
+        "T_ID": 9,
+        "T_group": 1,
+        "T_name": "Zagłębie Lubin"
+    },
+    {
+        "T_ID": 10,
+        "T_group": 1,
+        "T_name": "Korona Kielce"
+    },
+    {
+        "T_ID": 11,
+        "T_group": 1,
+        "T_name": "Arka Gdynia"
+    },
+    {
+        "T_ID": 12,
+        "T_group": 1,
+        "T_name": "Cracovia"
+    },
+    {
+        "T_ID": 13,
+        "T_group": 1,
+        "T_name": "Wisła Płock"
+    },
+    {
+        "T_ID": 14,
+        "T_group": 1,
+        "T_name": "Piast Gliwice"
+    },
+    {
+        "T_ID": 15,
+        "T_group": 1,
+        "T_name": "Zagłębie Sosnowiec"
+    },
+    {
+        "T_ID": 16,
+        "T_group": 1,
+        "T_name": "Miedź Legnica"
+    },
+    {
+        "T_ID": 17,
+        "T_group": 2,
+        "T_name": "Garbarnia Kraków"
+    },
+    {
+        "T_ID": 18,
+        "T_group": 2,
+        "T_name": "Stomil Olsztyn"
+    },
+    {
+        "T_ID": 19,
+        "T_group": 2,
+        "T_name": "GKS Tychy"
+    },
+    {
+        "T_ID": 20,
+        "T_group": 2,
+        "T_name": "Podbeskidzie Bielsko-Biała"
+    },
+    {
+        "T_ID": 21,
+        "T_group": 2,
+        "T_name": "Raków Częstochowa"
+    },
+    {
+        "T_ID": 22,
+        "T_group": 2,
+        "T_name": "Stal Mielec"
+    },
+    {
+        "T_ID": 23,
+        "T_group": 2,
+        "T_name": "GKS 1962 Jastrzębie"
+    },
+    {
+        "T_ID": 24,
+        "T_group": 2,
+        "T_name": "GKS Katowice"
+    },
+    {
+        "T_ID": 25,
+        "T_group": 2,
+        "T_name": "ŁKS Łódź"
+    },
+    {
+        "T_ID": 26,
+        "T_group": 2,
+        "T_name": "Warta Poznań"
+    },
+    {
+        "T_ID": 27,
+        "T_group": 2,
+        "T_name": "Bruk-Bet Termalica Nieciecza"
+    },
+    {
+        "T_ID": 28,
+        "T_group": 2,
+        "T_name": "Odra Opole"
+    },
+    {
+        "T_ID": 29,
+        "T_group": 2,
+        "T_name": "Sandecja Nowy Sącz"
+    },
+    {
+        "T_ID": 30,
+        "T_group": 2,
+        "T_name": "Chojniczanka Chojnice"
+    },
+    {
+        "T_ID": 31,
+        "T_group": 2,
+        "T_name": "Wigry Suwałki"
+    },
+    {
+        "T_ID": 32,
+        "T_group": 2,
+        "T_name": "Chrobry Głogów"
+    },
+    {
+        "T_ID": 33,
+        "T_group": 2,
+        "T_name": "Puszcza Niepołomice"
+    },
+    {
+        "T_ID": 34,
+        "T_group": 2,
+        "T_name": "Bytovia Bytów"
+    },
+    {
+        "T_ID": 35,
+        "T_group": 3,
+        "T_name": "Widzew Łódź"
+    },
+    {
+        "T_ID": 36,
+        "T_group": 3,
+        "T_name": "ROW 1964 Rybnik"
+    },
+    {
+        "T_ID": 37,
+        "T_group": 3,
+        "T_name": "Ruch Chorzów"
+    },
+    {
+        "T_ID": 38,
+        "T_group": 3,
+        "T_name": "Olimpia Grudziądz"
+    },
+    {
+        "T_ID": 39,
+        "T_group": 3,
+        "T_name": "Górnik Łęczna"
+    },
+    {
+        "T_ID": 40,
+        "T_group": 3,
+        "T_name": "Stal Stalowa Wola"
+    },
+    {
+        "T_ID": 41,
+        "T_group": 3,
+        "T_name": "Błękitni Stargard"
+    },
+    {
+        "T_ID": 42,
+        "T_group": 3,
+        "T_name": "Elana Toruń"
+    },
+    {
+        "T_ID": 43,
+        "T_group": 3,
+        "T_name": "GKS Bełchatów"
+    },
+    {
+        "T_ID": 44,
+        "T_group": 3,
+        "T_name": "Radomiak Radom"
+    },
+    {
+        "T_ID": 45,
+        "T_group": 3,
+        "T_name": "Siarka Tarnobrzeg"
+    },
+    {
+        "T_ID": 46,
+        "T_group": 3,
+        "T_name": "Resovia"
+    },
+    {
+        "T_ID": 47,
+        "T_group": 3,
+        "T_name": "Olimpia Elbląg"
+    },
+    {
+        "T_ID": 48,
+        "T_group": 3,
+        "T_name": "Pogoń Siedlce"
+    },
+    {
+        "T_ID": 49,
+        "T_group": 3,
+        "T_name": "Gryf Wejherowo"
+    },
+    {
+        "T_ID": 50,
+        "T_group": 3,
+        "T_name": "Rozwój Katowice"
+    },
+    {
+        "T_ID": 51,
+        "T_group": 3,
+        "T_name": "Znicz Pruszków"
+    },
+    {
+        "T_ID": 52,
+        "T_group": 3,
+        "T_name": "Skra Częstochowa"
+    },
+    {
+        "T_ID": 53,
+        "T_group": 4,
+        "T_name": "Sokół Aleksandrów Łódzki"
+    },
+    {
+        "T_ID": 54,
+        "T_group": 4,
+        "T_name": "Polonia Warszawa"
+    },
+    {
+        "T_ID": 55,
+        "T_group": 4,
+        "T_name": "Legionovia Legionowo"
+    },
+    {
+        "T_ID": 56,
+        "T_group": 4,
+        "T_name": "Lechia Tomaszów Mazowiecki"
+    },
+    {
+        "T_ID": 57,
+        "T_group": 4,
+        "T_name": "Unia Skierniewice"
+    },
+    {
+        "T_ID": 58,
+        "T_group": 4,
+        "T_name": "Legia II Warszawa"
+    },
+    {
+        "T_ID": 59,
+        "T_group": 4,
+        "T_name": "Sokół Ostróda"
+    },
+    {
+        "T_ID": 60,
+        "T_group": 4,
+        "T_name": "Znicz Biała Piska"
+    },
+    {
+        "T_ID": 61,
+        "T_group": 4,
+        "T_name": "Pelikan Łowicz"
+    },
+    {
+        "T_ID": 62,
+        "T_group": 4,
+        "T_name": "Huragan Morąg"
+    },
+    {
+        "T_ID": 63,
+        "T_group": 4,
+        "T_name": "Olimpia Zambrów"
+    },
+    {
+        "T_ID": 64,
+        "T_group": 4,
+        "T_name": "Broń Radom"
+    },
+    {
+        "T_ID": 65,
+        "T_group": 4,
+        "T_name": "Świt Nowy Dwór Mazowiecki"
+    },
+    {
+        "T_ID": 66,
+        "T_group": 4,
+        "T_name": "Ruch Wysokie Mazowieckie"
+    },
+    {
+        "T_ID": 67,
+        "T_group": 4,
+        "T_name": "Ursus Warszawa"
+    },
+    {
+        "T_ID": 68,
+        "T_group": 4,
+        "T_name": "Victoria Sulejówek"
+    },
+    {
+        "T_ID": 69,
+        "T_group": 4,
+        "T_name": "Mazur Ełk"
+    },
+    {
+        "T_ID": 70,
+        "T_group": 4,
+        "T_name": "ŁKS 1926 Łomża"
+    },
+    {
+        "T_ID": 71,
+        "T_group": 5,
+        "T_name": "Lech II Poznań"
+    },
+    {
+        "T_ID": 72,
+        "T_group": 5,
+        "T_name": "KKS 1925 Kalisz"
+    },
+    {
+        "T_ID": 73,
+        "T_group": 5,
+        "T_name": "Mieszko Gniezno"
+    },
+    {
+        "T_ID": 74,
+        "T_group": 5,
+        "T_name": "Radunia Stężyca"
+    },
+    {
+        "T_ID": 75,
+        "T_group": 5,
+        "T_name": "Sokół Kleczew"
+    },
+    {
+        "T_ID": 76,
+        "T_group": 5,
+        "T_name": "Kotwica Kołobrzeg"
+    },
+    {
+        "T_ID": 77,
+        "T_group": 5,
+        "T_name": "KP Starogard Gdański"
+    },
+    {
+        "T_ID": 78,
+        "T_group": 5,
+        "T_name": "Bałtyk Gdynia"
+    },
+    {
+        "T_ID": 79,
+        "T_group": 5,
+        "T_name": "Górnik Konin"
+    },
+    {
+        "T_ID": 80,
+        "T_group": 5,
+        "T_name": "Polonia Środa Wielkopolska"
+    },
+    {
+        "T_ID": 81,
+        "T_group": 5,
+        "T_name": "Świt Skolwin"
+    },
+    {
+        "T_ID": 82,
+        "T_group": 5,
+        "T_name": "Gwardia Koszalin"
+    },
+    {
+        "T_ID": 83,
+        "T_group": 5,
+        "T_name": "Jarota Jarocin"
+    },
+    {
+        "T_ID": 84,
+        "T_group": 5,
+        "T_name": "Pogoń II Szczecin"
+    },
+    {
+        "T_ID": 85,
+        "T_group": 5,
+        "T_name": "Bałtyk Koszalin"
+    },
+    {
+        "T_ID": 86,
+        "T_group": 5,
+        "T_name": "Chemik Bydgoszcz"
+    },
+    {
+        "T_ID": 87,
+        "T_group": 5,
+        "T_name": "Wierzyca Pelplin"
+    },
+    {
+        "T_ID": 88,
+        "T_group": 5,
+        "T_name": "Wda Świecie"
+    },
+    {
+        "T_ID": 89,
+        "T_group": 6,
+        "T_name": "Górnik Polkowice"
+    },
+    {
+        "T_ID": 90,
+        "T_group": 6,
+        "T_name": "Zagłębie II Lubin"
+    },
+    {
+        "T_ID": 91,
+        "T_group": 6,
+        "T_name": "Ślęza Wrocław"
+    },
+    {
+        "T_ID": 92,
+        "T_group": 6,
+        "T_name": "Gwarek Tarnowskie Góry"
+    },
+    {
+        "T_ID": 93,
+        "T_group": 6,
+        "T_name": "Pniówek Pawłowice Śląskie"
+    },
+    {
+        "T_ID": 94,
+        "T_group": 6,
+        "T_name": "Rekord Bielsko-Biała"
+    },
+    {
+        "T_ID": 95,
+        "T_group": 6,
+        "T_name": "Ruch Zdzieszowice"
+    },
+    {
+        "T_ID": 96,
+        "T_group": 6,
+        "T_name": "Górnik II Zabrze"
+    },
+    {
+        "T_ID": 97,
+        "T_group": 6,
+        "T_name": "Piast Żmigród"
+    },
+    {
+        "T_ID": 98,
+        "T_group": 6,
+        "T_name": "Miedź II Legnica"
+    },
+    {
+        "T_ID": 99,
+        "T_group": 6,
+        "T_name": "Stal Brzeg"
+    },
+    {
+        "T_ID": 100,
+        "T_group": 6,
+        "T_name": "Ruch Radzionków"
+    },
+    {
+        "T_ID": 101,
+        "T_group": 6,
+        "T_name": "Foto-Higiena Gać"
+    },
+    {
+        "T_ID": 102,
+        "T_group": 6,
+        "T_name": "MKS Kluczbork"
+    },
+    {
+        "T_ID": 103,
+        "T_group": 6,
+        "T_name": "Warta Gorzów Wielkopolski"
+    },
+    {
+        "T_ID": 104,
+        "T_group": 6,
+        "T_name": "Agroplon Głuszyna"
+    },
+    {
+        "T_ID": 105,
+        "T_group": 6,
+        "T_name": "KS Stilon Gorzów Wielkopolski"
+    },
+    {
+        "T_ID": 106,
+        "T_group": 6,
+        "T_name": "Lechia Dzierżoniów"
+    },
+    {
+        "T_ID": 107,
+        "T_group": 7,
+        "T_name": "Hutnik Kraków"
+    },
+    {
+        "T_ID": 108,
+        "T_group": 7,
+        "T_name": "Stal Rzeszów"
+    },
+    {
+        "T_ID": 109,
+        "T_group": 7,
+        "T_name": "Podhale Nowy Targ"
+    },
+    {
+        "T_ID": 110,
+        "T_group": 7,
+        "T_name": "Motor Lublin"
+    },
+    {
+        "T_ID": 111,
+        "T_group": 7,
+        "T_name": "Wisła Puławy"
+    },
+    {
+        "T_ID": 112,
+        "T_group": 7,
+        "T_name": "Orlęta Radzyń Podlaski"
+    },
+    {
+        "T_ID": 113,
+        "T_group": 7,
+        "T_name": "Stal Kraśnik"
+    },
+    {
+        "T_ID": 114,
+        "T_group": 7,
+        "T_name": "KSZO Ostrowiec Świętokrzyski"
+    },
+    {
+        "T_ID": 115,
+        "T_group": 7,
+        "T_name": "Avia Świdnik"
+    },
+    {
+        "T_ID": 116,
+        "T_group": 7,
+        "T_name": "Wisła Sandomierz"
+    },
+    {
+        "T_ID": 117,
+        "T_group": 7,
+        "T_name": "Chełmianka Chełm"
+    },
+    {
+        "T_ID": 118,
+        "T_group": 7,
+        "T_name": "Wólczanka Wólka Pełkińska"
+    },
+    {
+        "T_ID": 119,
+        "T_group": 7,
+        "T_name": "Wiślanie Jaśkowice"
+    },
+    {
+        "T_ID": 120,
+        "T_group": 7,
+        "T_name": "Sokół Sieniawa"
+    },
+    {
+        "T_ID": 121,
+        "T_group": 7,
+        "T_name": "Podlasie Biała Podlaska"
+    },
+    {
+        "T_ID": 122,
+        "T_group": 7,
+        "T_name": "Czarni Połaniec"
+    },
+    {
+        "T_ID": 123,
+        "T_group": 7,
+        "T_name": "Soła Oświęcim"
+    },
+    {
+        "T_ID": 124,
+        "T_group": 7,
+        "T_name": "Spartakus Razem Daleszyce"
+    },
+    {
+        "T_ID": 125,
+        "T_group": 8,
+        "T_name": "Śląsk II Wrocław"
+    },
+    {
+        "T_ID": 126,
+        "T_group": 8,
+        "T_name": "Górnik Wałbrzych"
+    },
+    {
+        "T_ID": 127,
+        "T_group": 8,
+        "T_name": "Orzeł Prusice"
+    },
+    {
+        "T_ID": 128,
+        "T_group": 8,
+        "T_name": "Polonia Trzebnica"
+    },
+    {
+        "T_ID": 129,
+        "T_group": 8,
+        "T_name": "Polonia-Stal Świdnica"
+    },
+    {
+        "T_ID": 130,
+        "T_group": 8,
+        "T_name": "Sokół Wielka Lipa"
+    },
+    {
+        "T_ID": 131,
+        "T_group": 8,
+        "T_name": "Sokół Marcinkowice"
+    },
+    {
+        "T_ID": 132,
+        "T_group": 8,
+        "T_name": "Bielawianka Bielawa"
+    },
+    {
+        "T_ID": 133,
+        "T_group": 8,
+        "T_name": "MKP Wołów"
+    },
+    {
+        "T_ID": 134,
+        "T_group": 8,
+        "T_name": "Piast Żerniki"
+    },
+    {
+        "T_ID": 135,
+        "T_group": 8,
+        "T_name": "Orzeł Ząbkowice Śląskie"
+    },
+    {
+        "T_ID": 136,
+        "T_group": 8,
+        "T_name": "Unia Bardo"
+    },
+    {
+        "T_ID": 137,
+        "T_group": 8,
+        "T_name": "Nysa Kłodzko"
+    },
+    {
+        "T_ID": 138,
+        "T_group": 8,
+        "T_name": "Piast Nowa Ruda"
+    },
+    {
+        "T_ID": 139,
+        "T_group": 8,
+        "T_name": "GKS Mirków/Długołęka"
+    },
+    {
+        "T_ID": 140,
+        "T_group": 8,
+        "T_name": "Zjednoczeni Żarów"
+    },
+    {
+        "T_ID": 141,
+        "T_group": 9,
+        "T_name": "Chrobry II Głogów"
+    },
+    {
+        "T_ID": 142,
+        "T_group": 9,
+        "T_name": "AKS Strzegom"
+    },
+    {
+        "T_ID": 143,
+        "T_group": 9,
+        "T_name": "Odra Ścinawa"
+    },
+    {
+        "T_ID": 144,
+        "T_group": 9,
+        "T_name": "Apis Jędrzychowice"
+    },
+    {
+        "T_ID": 145,
+        "T_group": 9,
+        "T_name": "Karkonosze Jelenia Góra"
+    },
+    {
+        "T_ID": 146,
+        "T_group": 9,
+        "T_name": "Górnik Złotoryja"
+    },
+    {
+        "T_ID": 147,
+        "T_group": 9,
+        "T_name": "Stal Chocianów"
+    },
+    {
+        "T_ID": 148,
+        "T_group": 9,
+        "T_name": "Orla Wąsosz"
+    },
+    {
+        "T_ID": 149,
+        "T_group": 9,
+        "T_name": "Orkan Szczedrzykowice"
+    },
+    {
+        "T_ID": 150,
+        "T_group": 9,
+        "T_name": "Sparta Rudna"
+    },
+    {
+        "T_ID": 151,
+        "T_group": 9,
+        "T_name": "BKS Bobrzanie Bolesławiec"
+    },
+    {
+        "T_ID": 152,
+        "T_group": 9,
+        "T_name": "Prochowiczanka Prochowice"
+    },
+    {
+        "T_ID": 153,
+        "T_group": 9,
+        "T_name": "Sparta Grębocice"
+    },
+    {
+        "T_ID": 154,
+        "T_group": 9,
+        "T_name": "Włókniarz Mirsk"
+    },
+    {
+        "T_ID": 155,
+        "T_group": 9,
+        "T_name": "Victoria Ruszów"
+    },
+    {
+        "T_ID": 156,
+        "T_group": 9,
+        "T_name": "Olimpia Kowary"
+    },
+    {
+        "T_ID": 157,
+        "T_group": 10,
+        "T_name": "Unia Janikowo"
+    },
+    {
+        "T_ID": 158,
+        "T_group": 10,
+        "T_name": "Orlęta Aleksandrów Kujawski"
+    },
+    {
+        "T_ID": 159,
+        "T_group": 10,
+        "T_name": "Pogoń Mogilno"
+    },
+    {
+        "T_ID": 160,
+        "T_group": 10,
+        "T_name": "Sparta Brodnica"
+    },
+    {
+        "T_ID": 161,
+        "T_group": 10,
+        "T_name": "Kujawianka Izbica Kujawska"
+    },
+    {
+        "T_ID": 162,
+        "T_group": 10,
+        "T_name": "Legia Chełmża"
+    },
+    {
+        "T_ID": 163,
+        "T_group": 10,
+        "T_name": "Notecianka Pakość"
+    },
+    {
+        "T_ID": 164,
+        "T_group": 10,
+        "T_name": "Pomorzanin Toruń"
+    },
+    {
+        "T_ID": 165,
+        "T_group": 10,
+        "T_name": "Lech Rypin"
+    },
+    {
+        "T_ID": 166,
+        "T_group": 10,
+        "T_name": "Unia Gniewkowo"
+    },
+    {
+        "T_ID": 167,
+        "T_group": 10,
+        "T_name": "Cuiavia Inowrocław"
+    },
+    {
+        "T_ID": 168,
+        "T_group": 10,
+        "T_name": "BKS Bydgoszcz"
+    },
+    {
+        "T_ID": 169,
+        "T_group": 10,
+        "T_name": "Kujawiak Kowal"
+    },
+    {
+        "T_ID": 170,
+        "T_group": 10,
+        "T_name": "Polonia Bydgoszcz"
+    },
+    {
+        "T_ID": 171,
+        "T_group": 10,
+        "T_name": "Włocłavia Włocławek"
+    },
+    {
+        "T_ID": 172,
+        "T_group": 10,
+        "T_name": "Wisła Nowe"
+    },
+    {
+        "T_ID": 173,
+        "T_group": 10,
+        "T_name": "Chełminianka Chełmno"
+    },
+    {
+        "T_ID": 174,
+        "T_group": 10,
+        "T_name": "Unia Solec Kujawski"
+    },
+    {
+        "T_ID": 175,
+        "T_group": 11,
+        "T_name": "Hetman Zamość"
+    },
+    {
+        "T_ID": 176,
+        "T_group": 11,
+        "T_name": "Lewart Lubartów"
+    },
+    {
+        "T_ID": 177,
+        "T_group": 11,
+        "T_name": "Lublinianka Lublin"
+    },
+    {
+        "T_ID": 178,
+        "T_group": 11,
+        "T_name": "Powiślak Końskowola"
+    },
+    {
+        "T_ID": 179,
+        "T_group": 11,
+        "T_name": "Górnik II Łęczna"
+    },
+    {
+        "T_ID": 180,
+        "T_group": 11,
+        "T_name": "Kryształ Werbkowice"
+    },
+    {
+        "T_ID": 181,
+        "T_group": 11,
+        "T_name": "Tomasovia Tomaszów Lubelski"
+    },
+    {
+        "T_ID": 182,
+        "T_group": 11,
+        "T_name": "Victoria Żmudź"
+    },
+    {
+        "T_ID": 183,
+        "T_group": 11,
+        "T_name": "Włodawianka Włodawa"
+    },
+    {
+        "T_ID": 184,
+        "T_group": 11,
+        "T_name": "Orlęta Łuków"
+    },
+    {
+        "T_ID": 185,
+        "T_group": 11,
+        "T_name": "Huczwa Tyszowce"
+    },
+    {
+        "T_ID": 186,
+        "T_group": 11,
+        "T_name": "Start Krasnystaw"
+    },
+    {
+        "T_ID": 187,
+        "T_group": 11,
+        "T_name": "Łada 1945 Biłgoraj"
+    },
+    {
+        "T_ID": 188,
+        "T_group": 11,
+        "T_name": "Kłos Chełm"
+    },
+    {
+        "T_ID": 189,
+        "T_group": 11,
+        "T_name": "Polesie Kock"
+    },
+    {
+        "T_ID": 190,
+        "T_group": 11,
+        "T_name": "MKS Ryki"
+    },
+    {
+        "T_ID": 191,
+        "T_group": 12,
+        "T_name": "Falubaz Zielona Góra"
+    },
+    {
+        "T_ID": 192,
+        "T_group": 12,
+        "T_name": "Tęcza Krosno Odrzańskie"
+    },
+    {
+        "T_ID": 193,
+        "T_group": 12,
+        "T_name": "TS Przylep"
+    },
+    {
+        "T_ID": 194,
+        "T_group": 12,
+        "T_name": "Carina Gubin"
+    },
+    {
+        "T_ID": 195,
+        "T_group": 12,
+        "T_name": "Dąb Przybyszów"
+    },
+    {
+        "T_ID": 196,
+        "T_group": 12,
+        "T_name": "Pogoń Świebodzin"
+    },
+    {
+        "T_ID": 197,
+        "T_group": 12,
+        "T_name": "Syrena Zbąszynek"
+    },
+    {
+        "T_ID": 198,
+        "T_group": 12,
+        "T_name": "Ilanka Rzepin"
+    },
+    {
+        "T_ID": 199,
+        "T_group": 12,
+        "T_name": "Spójnia Ośno Lubuskie"
+    },
+    {
+        "T_ID": 200,
+        "T_group": 12,
+        "T_name": "Arka Nowa Sól"
+    },
+    {
+        "T_ID": 201,
+        "T_group": 12,
+        "T_name": "Lubuszanin Drezdenko"
+    },
+    {
+        "T_ID": 202,
+        "T_group": 12,
+        "T_name": "Czarni Witnica"
+    },
+    {
+        "T_ID": 203,
+        "T_group": 12,
+        "T_name": "Polonia Słubice"
+    },
+    {
+        "T_ID": 204,
+        "T_group": 12,
+        "T_name": "Korona Kożuchów"
+    },
+    {
+        "T_ID": 205,
+        "T_group": 12,
+        "T_name": "Sprotavia Szprotawa"
+    },
+    {
+        "T_ID": 206,
+        "T_group": 12,
+        "T_name": "Odra Bytom Odrzański"
+    },
+    {
+        "T_ID": 207,
+        "T_group": 13,
+        "T_name": "RKS Radomsko"
+    },
+    {
+        "T_ID": 208,
+        "T_group": 13,
+        "T_name": "Warta Sieradz"
+    },
+    {
+        "T_ID": 209,
+        "T_group": 13,
+        "T_name": "LKS Kwiatkowice"
+    },
+    {
+        "T_ID": 210,
+        "T_group": 13,
+        "T_name": "KS Kutno"
+    },
+    {
+        "T_ID": 211,
+        "T_group": 13,
+        "T_name": "Orkan Buczek"
+    },
+    {
+        "T_ID": 212,
+        "T_group": 13,
+        "T_name": "Ceramika Opoczno"
+    },
+    {
+        "T_ID": 213,
+        "T_group": 13,
+        "T_name": "Zjednoczeni Stryków"
+    },
+    {
+        "T_ID": 214,
+        "T_group": 13,
+        "T_name": "Włókniarz Zelów"
+    },
+    {
+        "T_ID": 215,
+        "T_group": 13,
+        "T_name": "Ner Poddębice"
+    },
+    {
+        "T_ID": 216,
+        "T_group": 13,
+        "T_name": "Andrespolia Wiśniowa Góra"
+    },
+    {
+        "T_ID": 217,
+        "T_group": 13,
+        "T_name": "Omega Kleszczów"
+    },
+    {
+        "T_ID": 218,
+        "T_group": 13,
+        "T_name": "Pelikan II Łowicz"
+    },
+    {
+        "T_ID": 219,
+        "T_group": 13,
+        "T_name": "Warta Działoszyn"
+    },
+    {
+        "T_ID": 220,
+        "T_group": 13,
+        "T_name": "Pilica Przedbórz"
+    },
+    {
+        "T_ID": 221,
+        "T_group": 13,
+        "T_name": "Pogoń-Ekolog Zduńska Wola"
+    },
+    {
+        "T_ID": 222,
+        "T_group": 13,
+        "T_name": "Stal Niewiadów"
+    },
+    {
+        "T_ID": 223,
+        "T_group": 13,
+        "T_name": "Boruta Zgierz"
+    },
+    {
+        "T_ID": 224,
+        "T_group": 13,
+        "T_name": "Zawisza Pajęczno"
+    },
+    {
+        "T_ID": 225,
+        "T_group": 14,
+        "T_name": "Poprad Muszyna"
+    },
+    {
+        "T_ID": 226,
+        "T_group": 14,
+        "T_name": "Unia Tarnów"
+    },
+    {
+        "T_ID": 227,
+        "T_group": 14,
+        "T_name": "Limanovia Limanowa"
+    },
+    {
+        "T_ID": 228,
+        "T_group": 14,
+        "T_name": "Sandecja II Nowy Sącz"
+    },
+    {
+        "T_ID": 229,
+        "T_group": 14,
+        "T_name": "Watra Białka Tatrzańska"
+    },
+    {
+        "T_ID": 230,
+        "T_group": 14,
+        "T_name": "Orkan Szczyrzyc"
+    },
+    {
+        "T_ID": 231,
+        "T_group": 14,
+        "T_name": "Barciczanka Barcice"
+    },
+    {
+        "T_ID": 232,
+        "T_group": 14,
+        "T_name": "Okocimski KS Brzesko"
+    },
+    {
+        "T_ID": 233,
+        "T_group": 14,
+        "T_name": "Glinik Gorlice"
+    },
+    {
+        "T_ID": 234,
+        "T_group": 14,
+        "T_name": "GKS Drwinia"
+    },
+    {
+        "T_ID": 235,
+        "T_group": 14,
+        "T_name": "LKS Szaflary"
+    },
+    {
+        "T_ID": 236,
+        "T_group": 14,
+        "T_name": "Lubań Maniowy"
+    },
+    {
+        "T_ID": 237,
+        "T_group": 14,
+        "T_name": "Tarnovia Tarnów"
+    },
+    {
+        "T_ID": 238,
+        "T_group": 14,
+        "T_name": "Dunajec Zakliczyn"
+    },
+    {
+        "T_ID": 239,
+        "T_group": 14,
+        "T_name": "Bocheński KS"
+    },
+    {
+        "T_ID": 240,
+        "T_group": 14,
+        "T_name": "Olimpia Pisarzowa"
+    },
+    {
+        "T_ID": 241,
+        "T_group": 15,
+        "T_name": "Jutrzenka Giebułtów"
+    },
+    {
+        "T_ID": 242,
+        "T_group": 15,
+        "T_name": "Dalin Myślenice"
+    },
+    {
+        "T_ID": 243,
+        "T_group": 15,
+        "T_name": "Węgrzcanka Węgrzce Wielkie"
+    },
+    {
+        "T_ID": 244,
+        "T_group": 15,
+        "T_name": "Słomniczanka Słomniki"
+    },
+    {
+        "T_ID": 245,
+        "T_group": 15,
+        "T_name": "LKS Jawiszowice"
+    },
+    {
+        "T_ID": 246,
+        "T_group": 15,
+        "T_name": "Pcimianka Pcim"
+    },
+    {
+        "T_ID": 247,
+        "T_group": 15,
+        "T_name": "Orzeł Ryczów"
+    },
+    {
+        "T_ID": 248,
+        "T_group": 15,
+        "T_name": "Clepardia Kraków"
+    },
+    {
+        "T_ID": 249,
+        "T_group": 15,
+        "T_name": "Unia Oświęcim"
+    },
+    {
+        "T_ID": 250,
+        "T_group": 15,
+        "T_name": "Górnik Wieliczka"
+    },
+    {
+        "T_ID": 251,
+        "T_group": 15,
+        "T_name": "KS Olkusz"
+    },
+    {
+        "T_ID": 252,
+        "T_group": 15,
+        "T_name": "Wiślanka Grabie"
+    },
+    {
+        "T_ID": 253,
+        "T_group": 15,
+        "T_name": "MKS Trzebinia"
+    },
+    {
+        "T_ID": 254,
+        "T_group": 15,
+        "T_name": "Beskid Andrychów"
+    },
+    {
+        "T_ID": 255,
+        "T_group": 15,
+        "T_name": "Kaszowianka Kaszów"
+    },
+    {
+        "T_ID": 256,
+        "T_group": 15,
+        "T_name": "Orzeł Piaski Wielkie"
+    },
+    {
+        "T_ID": 257,
+        "T_group": 16,
+        "T_name": "Pogoń Grodzisk Mazowiecki"
+    },
+    {
+        "T_ID": 258,
+        "T_group": 16,
+        "T_name": "Błonianka Błonie"
+    },
+    {
+        "T_ID": 259,
+        "T_group": 16,
+        "T_name": "Pilica Białobrzegi"
+    },
+    {
+        "T_ID": 260,
+        "T_group": 16,
+        "T_name": "Oskar Przysucha"
+    },
+    {
+        "T_ID": 261,
+        "T_group": 16,
+        "T_name": "MKS Piaseczno"
+    },
+    {
+        "T_ID": 262,
+        "T_group": 16,
+        "T_name": "Energia Kozienice"
+    },
+    {
+        "T_ID": 263,
+        "T_group": 16,
+        "T_name": "Mszczonowianka Mszczonów"
+    },
+    {
+        "T_ID": 264,
+        "T_group": 16,
+        "T_name": "Wilga Garwolin"
+    },
+    {
+        "T_ID": 265,
+        "T_group": 16,
+        "T_name": "Mazur Karczew"
+    },
+    {
+        "T_ID": 266,
+        "T_group": 16,
+        "T_name": "Radomiak II Radom"
+    },
+    {
+        "T_ID": 267,
+        "T_group": 16,
+        "T_name": "KS Raszyn"
+    },
+    {
+        "T_ID": 268,
+        "T_group": 16,
+        "T_name": "Sparta Jazgarzew"
+    },
+    {
+        "T_ID": 269,
+        "T_group": 16,
+        "T_name": "LKS Promna"
+    },
+    {
+        "T_ID": 270,
+        "T_group": 16,
+        "T_name": "Znicz II Pruszków"
+    },
+    {
+        "T_ID": 271,
+        "T_group": 16,
+        "T_name": "Orzeł Unin"
+    },
+    {
+        "T_ID": 272,
+        "T_group": 16,
+        "T_name": "Perła Złotokłos"
+    },
+    {
+        "T_ID": 273,
+        "T_group": 17,
+        "T_name": "Huragan Wołomin"
+    },
+    {
+        "T_ID": 274,
+        "T_group": 17,
+        "T_name": "Ząbkovia Ząbki"
+    },
+    {
+        "T_ID": 275,
+        "T_group": 17,
+        "T_name": "Ożarowianka Ożarów Mazowiecki"
+    },
+    {
+        "T_ID": 276,
+        "T_group": 17,
+        "T_name": "MKS Przasnysz"
+    },
+    {
+        "T_ID": 277,
+        "T_group": 17,
+        "T_name": "Mazovia Mińsk Mazowiecki"
+    },
+    {
+        "T_ID": 278,
+        "T_group": 17,
+        "T_name": "KS Łomianki"
+    },
+    {
+        "T_ID": 279,
+        "T_group": 17,
+        "T_name": "Hutnik Warszawa"
+    },
+    {
+        "T_ID": 280,
+        "T_group": 17,
+        "T_name": "Pogoń II Siedlce"
+    },
+    {
+        "T_ID": 281,
+        "T_group": 17,
+        "T_name": "Wisła II Płock"
+    },
+    {
+        "T_ID": 282,
+        "T_group": 17,
+        "T_name": "Drukarz Warszawa"
+    },
+    {
+        "T_ID": 283,
+        "T_group": 17,
+        "T_name": "Korona Ostrołęka"
+    },
+    {
+        "T_ID": 284,
+        "T_group": 17,
+        "T_name": "Wkra Żuromin"
+    },
+    {
+        "T_ID": 285,
+        "T_group": 17,
+        "T_name": "MKS Ciechanów"
+    },
+    {
+        "T_ID": 286,
+        "T_group": 17,
+        "T_name": "Mazur Gostynin"
+    },
+    {
+        "T_ID": 287,
+        "T_group": 17,
+        "T_name": "Mławianka Mława"
+    },
+    {
+        "T_ID": 288,
+        "T_group": 17,
+        "T_name": "Kasztelan Sierpc"
+    },
+    {
+        "T_ID": 289,
+        "T_group": 18,
+        "T_name": "Polonia Głubczyce"
+    },
+    {
+        "T_ID": 290,
+        "T_group": 18,
+        "T_name": "Małapanew Ozimek"
+    },
+    {
+        "T_ID": 291,
+        "T_group": 18,
+        "T_name": "LZS Starowice"
+    },
+    {
+        "T_ID": 292,
+        "T_group": 18,
+        "T_name": "Swornica Czarnowąsy"
+    },
+    {
+        "T_ID": 293,
+        "T_group": 18,
+        "T_name": "Polonia Nysa"
+    },
+    {
+        "T_ID": 294,
+        "T_group": 18,
+        "T_name": "Skalnik Gracze"
+    },
+    {
+        "T_ID": 295,
+        "T_group": 18,
+        "T_name": "Piast Strzelce Opolskie"
+    },
+    {
+        "T_ID": 296,
+        "T_group": 18,
+        "T_name": "Start Namysłów"
+    },
+    {
+        "T_ID": 297,
+        "T_group": 18,
+        "T_name": "KS Krapkowice"
+    },
+    {
+        "T_ID": 298,
+        "T_group": 18,
+        "T_name": "OKS Olesno"
+    },
+    {
+        "T_ID": 299,
+        "T_group": 18,
+        "T_name": "Chemik Kędzierzyn-Koźle"
+    },
+    {
+        "T_ID": 300,
+        "T_group": 18,
+        "T_name": "Porawie Większyce"
+    },
+    {
+        "T_ID": 301,
+        "T_group": 18,
+        "T_name": "MKS Gogolin"
+    },
+    {
+        "T_ID": 302,
+        "T_group": 18,
+        "T_name": "Victoria Chróścice"
+    },
+    {
+        "T_ID": 303,
+        "T_group": 18,
+        "T_name": "TOR Dobrzeń Wielki"
+    },
+    {
+        "T_ID": 304,
+        "T_group": 18,
+        "T_name": "Pogoń Prudnik"
+    },
+    {
+        "T_ID": 305,
+        "T_group": 19,
+        "T_name": "Wisłoka Dębica"
+    },
+    {
+        "T_ID": 306,
+        "T_group": 19,
+        "T_name": "Polonia Przemyśl"
+    },
+    {
+        "T_ID": 307,
+        "T_group": 19,
+        "T_name": "Izolator Boguchwała"
+    },
+    {
+        "T_ID": 308,
+        "T_group": 19,
+        "T_name": "Ekoball Sanok"
+    },
+    {
+        "T_ID": 309,
+        "T_group": 19,
+        "T_name": "Wisłok Wiśniowa"
+    },
+    {
+        "T_ID": 310,
+        "T_group": 19,
+        "T_name": "Rzemieślnik Pilzno"
+    },
+    {
+        "T_ID": 311,
+        "T_group": 19,
+        "T_name": "Karpaty Krosno"
+    },
+    {
+        "T_ID": 312,
+        "T_group": 19,
+        "T_name": "Piast Tuczempy"
+    },
+    {
+        "T_ID": 313,
+        "T_group": 19,
+        "T_name": "Igloopol Dębica"
+    },
+    {
+        "T_ID": 314,
+        "T_group": 19,
+        "T_name": "JKS 1909 Jarosław"
+    },
+    {
+        "T_ID": 315,
+        "T_group": 19,
+        "T_name": "Sokół Kolbuszowa Dolna"
+    },
+    {
+        "T_ID": 316,
+        "T_group": 19,
+        "T_name": "KS Wiązownica"
+    },
+    {
+        "T_ID": 317,
+        "T_group": 19,
+        "T_name": "Błękitni Ropczyce"
+    },
+    {
+        "T_ID": 318,
+        "T_group": 19,
+        "T_name": "Orzeł Przeworsk"
+    },
+    {
+        "T_ID": 319,
+        "T_group": 19,
+        "T_name": "Przełom Besko"
+    },
+    {
+        "T_ID": 320,
+        "T_group": 19,
+        "T_name": "Stal Gorzyce"
+    },
+    {
+        "T_ID": 321,
+        "T_group": 19,
+        "T_name": "Sokół Nisko"
+    },
+    {
+        "T_ID": 322,
+        "T_group": 19,
+        "T_name": "Korona Rzeszów"
+    },
+    {
+        "T_ID": 323,
+        "T_group": 20,
+        "T_name": "KS Wasilków"
+    },
+    {
+        "T_ID": 324,
+        "T_group": 20,
+        "T_name": "Warmia Grajewo"
+    },
+    {
+        "T_ID": 325,
+        "T_group": 20,
+        "T_name": "KS Michałowo"
+    },
+    {
+        "T_ID": 326,
+        "T_group": 20,
+        "T_name": "Wigry II Suwałki"
+    },
+    {
+        "T_ID": 327,
+        "T_group": 20,
+        "T_name": "Sparta 1951 Szepietowo"
+    },
+    {
+        "T_ID": 328,
+        "T_group": 20,
+        "T_name": "MOSP Białystok"
+    },
+    {
+        "T_ID": 329,
+        "T_group": 20,
+        "T_name": "Tur Bielsk Podlaski"
+    },
+    {
+        "T_ID": 330,
+        "T_group": 20,
+        "T_name": "Wissa Szczuczyn"
+    },
+    {
+        "T_ID": 331,
+        "T_group": 20,
+        "T_name": "Promień Mońki"
+    },
+    {
+        "T_ID": 332,
+        "T_group": 20,
+        "T_name": "Dąb Dąbrowa Białostocka"
+    },
+    {
+        "T_ID": 333,
+        "T_group": 20,
+        "T_name": "Sparta Augustów"
+    },
+    {
+        "T_ID": 334,
+        "T_group": 20,
+        "T_name": "Hetman Białystok"
+    },
+    {
+        "T_ID": 335,
+        "T_group": 20,
+        "T_name": "Cresovia Siemiatycze"
+    },
+    {
+        "T_ID": 336,
+        "T_group": 20,
+        "T_name": "MKS Mielnik"
+    },
+    {
+        "T_ID": 337,
+        "T_group": 20,
+        "T_name": "Biebrza Goniądz"
+    },
+    {
+        "T_ID": 338,
+        "T_group": 20,
+        "T_name": "Magnat Juchnowiec Kościelny"
+    },
+    {
+        "T_ID": 339,
+        "T_group": 20,
+        "T_name": "KS Śniadowo"
+    },
+    {
+        "T_ID": 340,
+        "T_group": 21,
+        "T_name": "Gryf Słupsk"
+    },
+    {
+        "T_ID": 341,
+        "T_group": 21,
+        "T_name": "Grom Nowy Staw"
+    },
+    {
+        "T_ID": 342,
+        "T_group": 21,
+        "T_name": "Lechia II Gdańsk"
+    },
+    {
+        "T_ID": 343,
+        "T_group": 21,
+        "T_name": "GKS Przodkowo"
+    },
+    {
+        "T_ID": 344,
+        "T_group": 21,
+        "T_name": "Stolem Gniewino"
+    },
+    {
+        "T_ID": 345,
+        "T_group": 21,
+        "T_name": "GOSRiT Luzino"
+    },
+    {
+        "T_ID": 346,
+        "T_group": 21,
+        "T_name": "Arka II Gdynia"
+    },
+    {
+        "T_ID": 347,
+        "T_group": 21,
+        "T_name": "Wda Lipusz"
+    },
+    {
+        "T_ID": 348,
+        "T_group": 21,
+        "T_name": "Powiśle Dzierzgoń"
+    },
+    {
+        "T_ID": 349,
+        "T_group": 21,
+        "T_name": "GKS Kowale"
+    },
+    {
+        "T_ID": 350,
+        "T_group": 21,
+        "T_name": "Jantar Ustka"
+    },
+    {
+        "T_ID": 351,
+        "T_group": 21,
+        "T_name": "Gedania Gdańsk"
+    },
+    {
+        "T_ID": 352,
+        "T_group": 21,
+        "T_name": "Kaszubia Kościerzyna"
+    },
+    {
+        "T_ID": 353,
+        "T_group": 21,
+        "T_name": "Pogoń Lębork"
+    },
+    {
+        "T_ID": 354,
+        "T_group": 21,
+        "T_name": "Bytovia II Bytów"
+    },
+    {
+        "T_ID": 355,
+        "T_group": 21,
+        "T_name": "GTS Kolbudy"
+    },
+    {
+        "T_ID": 356,
+        "T_group": 21,
+        "T_name": "Jaguar Kokoszki"
+    },
+    {
+        "T_ID": 357,
+        "T_group": 21,
+        "T_name": "Orkan Rumia"
+    },
+    {
+        "T_ID": 358,
+        "T_group": 20,
+        "T_name": "Anioły Garczegorze"
+    },
+    {
+        "T_ID": 359,
+        "T_group": 22,
+        "T_name": "Polonia Bytom"
+    },
+    {
+        "T_ID": 360,
+        "T_group": 22,
+        "T_name": "Śląsk Świętochłowice"
+    },
+    {
+        "T_ID": 361,
+        "T_group": 22,
+        "T_name": "RKS Grodziec"
+    },
+    {
+        "T_ID": 362,
+        "T_group": 22,
+        "T_name": "Warta Zawiercie"
+    },
+    {
+        "T_ID": 363,
+        "T_group": 22,
+        "T_name": "Polonia Poraj"
+    },
+    {
+        "T_ID": 364,
+        "T_group": 22,
+        "T_name": "Unia Dąbrowa Górnicza"
+    },
+    {
+        "T_ID": 365,
+        "T_group": 22,
+        "T_name": "Szombierki Bytom"
+    },
+    {
+        "T_ID": 366,
+        "T_group": 22,
+        "T_name": "Przemsza Siewierz"
+    },
+    {
+        "T_ID": 367,
+        "T_group": 22,
+        "T_name": "Unia Kosztowy"
+    },
+    {
+        "T_ID": 368,
+        "T_group": 22,
+        "T_name": "Sarmacja Będzin"
+    },
+    {
+        "T_ID": 369,
+        "T_group": 22,
+        "T_name": "Gwarek Ornontowice"
+    },
+    {
+        "T_ID": 370,
+        "T_group": 22,
+        "T_name": "Raków II Częstochowa"
+    },
+    {
+        "T_ID": 371,
+        "T_group": 22,
+        "T_name": "MKS Myszków"
+    },
+    {
+        "T_ID": 372,
+        "T_group": 22,
+        "T_name": "Zieloni Żarki"
+    },
+    {
+        "T_ID": 373,
+        "T_group": 22,
+        "T_name": "Slavia Ruda Śląska"
+    },
+    {
+        "T_ID": 374,
+        "T_group": 22,
+        "T_name": "Górnik Piaski"
+    },
+    {
+        "T_ID": 375,
+        "T_group": 23,
+        "T_name": "LKS Czaniec"
+    },
+    {
+        "T_ID": 376,
+        "T_group": 23,
+        "T_name": "LKS Bełk"
+    },
+    {
+        "T_ID": 377,
+        "T_group": 23,
+        "T_name": "Kuźnia Ustroń"
+    },
+    {
+        "T_ID": 378,
+        "T_group": 23,
+        "T_name": "Drzewiarz Jasienica"
+    },
+    {
+        "T_ID": 379,
+        "T_group": 23,
+        "T_name": "MRKS Czechowice-Dziedzice"
+    },
+    {
+        "T_ID": 380,
+        "T_group": 23,
+        "T_name": "GKS II Tychy"
+    },
+    {
+        "T_ID": 381,
+        "T_group": 23,
+        "T_name": "Polonia Łaziska Górne"
+    },
+    {
+        "T_ID": 382,
+        "T_group": 23,
+        "T_name": "GKS Radziechowy-Wieprz"
+    },
+    {
+        "T_ID": 383,
+        "T_group": 23,
+        "T_name": "Unia Racibórz"
+    },
+    {
+        "T_ID": 384,
+        "T_group": 23,
+        "T_name": "Odra Centrum Wodzisław Śląski"
+    },
+    {
+        "T_ID": 385,
+        "T_group": 23,
+        "T_name": "LKS Goczałkowice Zdrój"
+    },
+    {
+        "T_ID": 386,
+        "T_group": 23,
+        "T_name": "Dąb Gaszowice"
+    },
+    {
+        "T_ID": 387,
+        "T_group": 23,
+        "T_name": "Wilki Wilcza"
+    },
+    {
+        "T_ID": 388,
+        "T_group": 23,
+        "T_name": "Podbeskidzie II Bielsko-Biała"
+    },
+    {
+        "T_ID": 389,
+        "T_group": 23,
+        "T_name": "Spójnia Landek"
+    },
+    {
+        "T_ID": 390,
+        "T_group": 23,
+        "T_name": "Płomień Połomia"
+    },
+    {
+        "T_ID": 391,
+        "T_group": 24,
+        "T_name": "Korona II Kielce"
+    },
+    {
+        "T_ID": 392,
+        "T_group": 24,
+        "T_name": "Neptun Końskie"
+    },
+    {
+        "T_ID": 393,
+        "T_group": 24,
+        "T_name": "Zdrój Busko-Zdrój"
+    },
+    {
+        "T_ID": 394,
+        "T_group": 24,
+        "T_name": "Granat Skarżysko-Kamienna"
+    },
+    {
+        "T_ID": 395,
+        "T_group": 24,
+        "T_name": "GKS Nowiny"
+    },
+    {
+        "T_ID": 396,
+        "T_group": 24,
+        "T_name": "Pogoń 1945 Staszów"
+    },
+    {
+        "T_ID": 397,
+        "T_group": 24,
+        "T_name": "Wierna Małogoszcz"
+    },
+    {
+        "T_ID": 398,
+        "T_group": 24,
+        "T_name": "Alit Ożarów"
+    },
+    {
+        "T_ID": 399,
+        "T_group": 24,
+        "T_name": "Lubrzanka Kajetanów"
+    },
+    {
+        "T_ID": 400,
+        "T_group": 24,
+        "T_name": "Partyzant Radoszyce"
+    },
+    {
+        "T_ID": 401,
+        "T_group": 24,
+        "T_name": "Nida Pińczów"
+    },
+    {
+        "T_ID": 402,
+        "T_group": 24,
+        "T_name": "Łysica Bodzentyn"
+    },
+    {
+        "T_ID": 403,
+        "T_group": 24,
+        "T_name": "Naprzód Jędrzejów"
+    },
+    {
+        "T_ID": 404,
+        "T_group": 24,
+        "T_name": "Hetman Włoszczowa"
+    },
+    {
+        "T_ID": 405,
+        "T_group": 24,
+        "T_name": "ŁKS Łagów"
+    },
+    {
+        "T_ID": 406,
+        "T_group": 24,
+        "T_name": "Kamienna Brody"
+    },
+    {
+        "T_ID": 407,
+        "T_group": 24,
+        "T_name": "Klimontowianka Klimontów"
+    },
+    {
+        "T_ID": 408,
+        "T_group": 24,
+        "T_name": "Unia Sędziszów"
+    },
+    {
+        "T_ID": 409,
+        "T_group": 25,
+        "T_name": "Concordia Elbląg"
+    },
+    {
+        "T_ID": 410,
+        "T_group": 25,
+        "T_name": "GKS Wikielec"
+    },
+    {
+        "T_ID": 411,
+        "T_group": 25,
+        "T_name": "Motor Lubawa"
+    },
+    {
+        "T_ID": 412,
+        "T_group": 25,
+        "T_name": "ITS Jeziorak Iława"
+    },
+    {
+        "T_ID": 413,
+        "T_group": 25,
+        "T_name": "Mamry Giżycko"
+    },
+    {
+        "T_ID": 414,
+        "T_group": 25,
+        "T_name": "Mrągowia Mrągowo"
+    },
+    {
+        "T_ID": 415,
+        "T_group": 25,
+        "T_name": "Tęcza Biskupiec"
+    },
+    {
+        "T_ID": 416,
+        "T_group": 25,
+        "T_name": "MKS Korsze"
+    },
+    {
+        "T_ID": 417,
+        "T_group": 25,
+        "T_name": "Granica Kętrzyn"
+    },
+    {
+        "T_ID": 418,
+        "T_group": 25,
+        "T_name": "Zatoka Braniewo"
+    },
+    {
+        "T_ID": 419,
+        "T_group": 25,
+        "T_name": "Olimpia II Elbląg"
+    },
+    {
+        "T_ID": 420,
+        "T_group": 25,
+        "T_name": "Czarni Olecko"
+    },
+    {
+        "T_ID": 421,
+        "T_group": 25,
+        "T_name": "Rominta Gołdap"
+    },
+    {
+        "T_ID": 422,
+        "T_group": 25,
+        "T_name": "Unia Susz"
+    },
+    {
+        "T_ID": 423,
+        "T_group": 25,
+        "T_name": "Tęcza Miłomłyn"
+    },
+    {
+        "T_ID": 424,
+        "T_group": 25,
+        "T_name": "Drwęca Nowe Miasto Lubawskie"
+    },
+    {
+        "T_ID": 425,
+        "T_group": 26,
+        "T_name": "Lubuszanin Trzcianka"
+    },
+    {
+        "T_ID": 426,
+        "T_group": 26,
+        "T_name": "Nielba Wągrowiec"
+    },
+    {
+        "T_ID": 427,
+        "T_group": 26,
+        "T_name": "Unia Swarzędz"
+    },
+    {
+        "T_ID": 428,
+        "T_group": 26,
+        "T_name": "Pogoń Nowe Skalmierzyce"
+    },
+    {
+        "T_ID": 429,
+        "T_group": 26,
+        "T_name": "Obra Kościan"
+    },
+    {
+        "T_ID": 430,
+        "T_group": 26,
+        "T_name": "Polonia Kępno"
+    },
+    {
+        "T_ID": 431,
+        "T_group": 26,
+        "T_name": "Centra Ostrów Wielkopolski"
+    },
+    {
+        "T_ID": 432,
+        "T_group": 26,
+        "T_name": "Polonia 1912 Leszno"
+    },
+    {
+        "T_ID": 433,
+        "T_group": 26,
+        "T_name": "LKS Gołuchów"
+    },
+    {
+        "T_ID": 434,
+        "T_group": 26,
+        "T_name": "Tarnovia Tarnowo Podgórne"
+    },
+    {
+        "T_ID": 435,
+        "T_group": 26,
+        "T_name": "Victoria Września"
+    },
+    {
+        "T_ID": 436,
+        "T_group": 26,
+        "T_name": "Orkan Śmiłowo"
+    },
+    {
+        "T_ID": 437,
+        "T_group": 26,
+        "T_name": "Sokół Pniewy"
+    },
+    {
+        "T_ID": 438,
+        "T_group": 26,
+        "T_name": "Warta Międzychód"
+    },
+    {
+        "T_ID": 439,
+        "T_group": 26,
+        "T_name": "Ostrovia 1909 Ostrów Wielkopolski"
+    },
+    {
+        "T_ID": 440,
+        "T_group": 26,
+        "T_name": "Zjednoczeni Trzemeszno"
+    },
+    {
+        "T_ID": 441,
+        "T_group": 26,
+        "T_name": "KS Opatówek"
+    },
+    {
+        "T_ID": 442,
+        "T_group": 26,
+        "T_name": "Krobianka Krobia"
+    },
+    {
+        "T_ID": 443,
+        "T_group": 26,
+        "T_name": "Kotwica Kórnik"
+    },
+    {
+        "T_ID": 444,
+        "T_group": 26,
+        "T_name": "Olimpia Koło"
+    },
+    {
+        "T_ID": 445,
+        "T_group": 27,
+        "T_name": "Chemik Police"
+    },
+    {
+        "T_ID": 446,
+        "T_group": 27,
+        "T_name": "Vineta Wolin"
+    },
+    {
+        "T_ID": 447,
+        "T_group": 27,
+        "T_name": "Rega Trzebiatów"
+    },
+    {
+        "T_ID": 448,
+        "T_group": 27,
+        "T_name": "Sparta Węgorzyno"
+    },
+    {
+        "T_ID": 449,
+        "T_group": 27,
+        "T_name": "Olimp Gościno"
+    },
+    {
+        "T_ID": 450,
+        "T_group": 27,
+        "T_name": "Kluczevia Stargard"
+    },
+    {
+        "T_ID": 451,
+        "T_group": 27,
+        "T_name": "Ina Goleniów"
+    },
+    {
+        "T_ID": 452,
+        "T_group": 27,
+        "T_name": "Błękitni II Stargard"
+    },
+    {
+        "T_ID": 453,
+        "T_group": 27,
+        "T_name": "Leśnik Manowo"
+    },
+    {
+        "T_ID": 454,
+        "T_group": 27,
+        "T_name": "Morzycko Moryń"
+    },
+    {
+        "T_ID": 455,
+        "T_group": 27,
+        "T_name": "Pogoń Połczyn Zdrój"
+    },
+    {
+        "T_ID": 456,
+        "T_group": 27,
+        "T_name": "Gryf Polanów"
+    },
+    {
+        "T_ID": 457,
+        "T_group": 27,
+        "T_name": "Rasel Dygowo"
+    },
+    {
+        "T_ID": 458,
+        "T_group": 27,
+        "T_name": "MKP Szczecinek"
+    },
+    {
+        "T_ID": 459,
+        "T_group": 27,
+        "T_name": "Gryf Kamień Pomorski"
+    },
+    {
+        "T_ID": 460,
+        "T_group": 27,
+        "T_name": "Sokół Karlino"
+    },
+    {
+        "T_ID": 461,
+        "T_group": 27,
+        "T_name": "Orzeł Wałcz"
+    },
+    {
+        "T_ID": 462,
+        "T_group": 27,
+        "T_name": "Hutnik Szczecin"
+    }
+]
