@@ -2,8 +2,10 @@ namespace soc_1_cs;
 
 public class Team
 {
-    string name;
+    public string name;
     public List<Player> players;
+    public int ID;
+    public League league;
     public Team():this(" -=*=- ")
     {     
 
