@@ -1,9 +1,10 @@
 namespace soc_1_cs;
 
-public class Team
+public class Team:IComparable
 {
     public string name;
-    public List<Player> players;
+    public List<Player> l_players;
+    public List<int> l_points;
     public int ID;
     public League league;
     public Team():this(" -=*=- ")
@@ -11,12 +12,11 @@ public class Team
 
     }
 
-
-
     public Team(string pstr)
     {
         name=pstr;
-        players=new List<Player>();
+        l_players=new List<Player>();
+        l_points=new List<int>();
 
     }
 
@@ -24,7 +24,7 @@ public class Team
     {
         string tstr="";
         tstr+=pindent+" === "+this.name+" === \r\n";
-        foreach (Player tpl in this.players)
+        foreach (Player tpl in this.l_players)
         {
             tstr+=tpl.toStr(pindent+"  ");
         }
@@ -35,10 +35,28 @@ public class Team
     {
         string tstr="";
         tstr+=pindent+" === "+this.name+" === \n";
-        foreach (Player tpl in this.players)
+        foreach (Player tpl in this.l_players)
         {
             tstr+=pindent+tpl.name;
         }
+        return tstr;
+    }
+
+    public int CompareTo(object? tteam)
+    {
+        //Team tteam1=tteam as Team;
+        return this.name.CompareTo(((Team)tteam).name);
+    }
+
+    public string points()
+    {
+        string tstr="";
+        int tpo=0;
+        foreach(int i in l_points)
+        {
+            tpo+=i;
+        }
+        tstr=tpo.ToString();
         return tstr;
     }
 

@@ -5,18 +5,24 @@ namespace soc_1_cs;
 public class Manager{
 
     public Match mat1;
+  //  public Tournament tour1;
  //   public Team t1,t2;  
     public List<League> l_leagues;
     public List<Player> l_players;  
     public Manager()
     {
-        mat1=new Match();
-   //     t1=new Team("krowa team");
-   //     t2=new Team("owca team");
+        
         l_players=new List<Player>();
-        l_leagues=new List<League>();
+        l_leagues=new List<League>();   
+        loadData();
+        SortTeams();     
+        mat1=new Match(l_leagues[0].l_teams[0],l_leagues[0].l_teams[1]);
     }
 
+    /// <summary>
+    /// loads players info from a given JSON file
+    /// </summary>
+    /// <param name="ppath"> path to JSON file</param>
     public void LoadPlayers(string ppath)
     {
         string tstr=File.ReadAllText(ppath);
@@ -36,7 +42,11 @@ public class Manager{
         }
         
     }
-
+    
+    /// <summary>
+    /// loads leagues names from given JSON file
+    /// </summary>
+    /// <param name="ppath"> path to JSON file</param>
     public void LoadLeagues(string ppath)
     {
         string tstr=File.ReadAllText(ppath);
@@ -56,6 +66,12 @@ public class Manager{
         }
 
     }
+
+    /// <summary>
+    /// finds a league by given ID
+    /// </summary>
+    /// <param name="pID"> league ID number</param>
+    /// <returns>reference to found league</returns>
     public League? findLeaguebyID(int pID)
     {
         League? tleg;
@@ -63,6 +79,10 @@ public class Manager{
         return tleg;
     }
 
+    /// <summary>
+    /// loads teams names from given JSOn file and puts them to according league
+    /// </summary>
+    /// <param name="ppath">path to given JSON file</param>
     public void LoadTeams(string ppath)
     {
         string tstr=File.ReadAllText(ppath);
@@ -86,12 +106,30 @@ public class Manager{
 
     }
 
+    /// <summary>
+    /// sorts teams inside a league
+    /// </summary>
+    public void SortTeams()
+    {
+        foreach(League tleg in l_leagues)
+        {
+            tleg.SortTeams();
+        }
+    }
+
+    /// <summary>
+    /// loads players, teams and leagues information
+    /// </summary>
     public void loadData()
     {
         LoadPlayers(".\\data\\players.json");
         LoadLeagues(".\\data\\groups.json");
         LoadTeams(".\\data\\teams.json");
     }
+    /// <summary>
+    /// lists player names
+    /// </summary>
+    /// <returns>string with names</returns>
     public string ListPlayers()
     {
         string tstr="player list\r\n";
@@ -101,6 +139,10 @@ public class Manager{
         }
         return tstr;
     }
+    /// <summary>
+    /// lists league names
+    /// </summary>
+    /// <returns>string with names</returns>
 
     public string ListLeagues()
     {
@@ -112,6 +154,19 @@ public class Manager{
         return tstr;
     }
 
+    public string NextRound()
+    {
+        string tstr="";
+        foreach(League tleg in l_leagues)
+        {
+            tstr+="-=-"+tleg.name+" -=-\r\n"+tleg.NextRound();
+        }
+        return tstr;
+    }
+
+    /// <summary>
+    /// TODO: remove
+    /// </summary>
     public void DumbInit()
     {
  //       t1.players.Add(l_players[0]);
