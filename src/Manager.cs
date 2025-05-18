@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using System.Text.Json;
 
 namespace soc_1_cs;
@@ -25,7 +26,9 @@ public class Manager{
     /// <param name="ppath"> path to JSON file</param>
     public void LoadPlayers(string ppath)
     {
+        Debug.WriteLine("77");
         string tstr=File.ReadAllText(ppath);
+        Debug.WriteLine("abc");
         JsonDocument jsdoc=JsonDocument.Parse(tstr);
         JsonElement jselement=jsdoc.RootElement;
         JsonElement.ArrayEnumerator jsenum=jselement.EnumerateArray();
@@ -122,9 +125,9 @@ public class Manager{
     /// </summary>
     public void loadData()
     {
-        LoadPlayers(".\\data\\players.json");
-        LoadLeagues(".\\data\\groups.json");
-        LoadTeams(".\\data\\teams.json");
+        LoadPlayers("..\\..\\..\\data\\players.json");
+        LoadLeagues("..\\..\\..\\data\\groups.json");
+        LoadTeams("..\\..\\..\\data\\teams.json");
     }
     /// <summary>
     /// lists player names
